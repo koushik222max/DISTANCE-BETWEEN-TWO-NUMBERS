@@ -24,6 +24,7 @@ the space between two hearts under the same sky.
 ✨ Clean Output → Returns the distance as if carved into the wind.
 
 🌄 Example Run
+--
 If point value is none enter '0'
 
 Enter value of x1: 2
@@ -33,8 +34,10 @@ Enter value of x2: 5
 Enter value of y1: 3
 --
 Enter value of y2: 7
+--
 
 The distance between two points is: 5.0
+---
 
 This is not just a number.
 It is the stretch of horizon from dawn to dusk.
