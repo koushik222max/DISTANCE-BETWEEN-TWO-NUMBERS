@@ -27,8 +27,11 @@ the space between two hearts under the same sky.
 If point value is none enter '0'
 
 Enter value of x1: 2
+--
 Enter value of x2: 5
+--
 Enter value of y1: 3
+--
 Enter value of y2: 7
 
 The distance between two points is: 5.0
